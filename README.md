@@ -1,4 +1,4 @@
-# Wikipedia Pathfinder
+# Wikipedia-Game Bot
 
 ## Overview
 Wikipedia Pathfinder is an AI-powered tool that navigates Wikipedia pages to find a path between a starting page and a target page. It leverages asynchronous API calls and Google's Gemini AI to intelligently choose the best path through Wikipedia.
